@@ -1,4 +1,4 @@
-# :elephpant: Projeto de Testes em PHP
+# Projeto de Testes em PHP
 
 Repositório criado para realizar testes e simulações com PHP, conforme solicitações do time de produção.
 Ideal para validar hipóteses, testar integrações ou implementar protótipos rápidos. 🚀
