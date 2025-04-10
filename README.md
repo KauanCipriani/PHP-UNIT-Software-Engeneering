@@ -68,3 +68,6 @@ Nenhum teste falhou durante a execução atual, indicando que os métodos estão
 
     Como os testes podem ajudar na evolução segura do código?
 Ter uma suíte de testes bem escrita proporciona segurança ao refatorar ou adicionar novas funcionalidades. Se algo for quebrado acidentalmente, os testes vão alertar de imediato, prevenindo bugs em produção.
+
+# 👨‍💻 Autores
+Kauan Amélio Cipriani, Guilherme Depiné e Gabriel Morin Werner
