@@ -12,7 +12,7 @@ Composer (opcional)
 
 PHPUnit para testes unitários
 
-🚀 Como rodar o projeto
+# 🚀 Como rodar o projeto
 
 ```bash
 # Clone o repositório
